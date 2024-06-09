@@ -28,6 +28,7 @@ type Response = {
     keywords: string[]
     formats: Format[]
     error?: string
+    detail?: string
 }
 
 export default function HomePage() {
@@ -52,10 +53,10 @@ export default function HomePage() {
 
         const data = await res.json() as Response
         setLoading(false)
-        if (data.error) {
+        if (data.error || data.detail) {
             toast({
                 title: 'Error',
-                description: data.error,
+                description: data.error || data.detail,
             })
             return
         }
