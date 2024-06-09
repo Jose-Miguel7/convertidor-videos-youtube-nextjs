@@ -152,7 +152,7 @@ export default function HomePage() {
 
                         </h2>
                         <span className="text-[14px] font-[300]">
-                            Descarga tu video ofrece un servicio API para poder utilizar nuestros servicios de forma programática. Para poder utilizar la API, deberás iniciar sesión y obtener tu API Key.
+                            DescargaTuVideo ofrece un servicio API para poder utilizar nuestros servicios de forma programática. Para poder utilizar la API, deberás pedir tu API_TOKEN al correo <a href="mailto:descargatuvideoyt@gmail.com" className="text-blue-500">descargatuvideoyt@gmail.com</a>
                         </span>
                     </div>
                 </section>

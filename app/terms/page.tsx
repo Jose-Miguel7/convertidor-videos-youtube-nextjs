@@ -15,7 +15,7 @@ export default function Page() {
                 <div className="flex flex-col gap-4 text-[14px]">
 
                     <p>DescargaTuVideo, persona jur&iacute;dica de derecho privado describe, a trav&eacute;s de este documento, las
-                        normas de uso del sitio https://descargatuvideo.cl y de cualquier otro sitio web, tienda o aplicaci&oacute;n
+                        normas de uso del sitio de DescargaTuVideo y de cualquier otro sitio web, tienda o aplicaci&oacute;n
                         operada por el titular.</p>
                     <p>Al navegar por este sitio web, consideramos que est&aacute; de acuerdo con las condiciones de uso que figuran
                         a
@@ -145,7 +145,7 @@ export default function Page() {
                             <h4 className="font-[500] text-[18px]">Secci&oacute;n 9 - Contacto</h4>
                             <p>Si tiene alguna pregunta sobre las condiciones de uso, por favor p&oacute;ngase en contacto con
                                 nosotros
-                                por correo electr&oacute;nico contacto@descargatuvideo.cl.</p>
+                                por correo electr&oacute;nico descargatuvideoyt@gmail.com.</p>
                         </li>
                     </ul>
                 </div>

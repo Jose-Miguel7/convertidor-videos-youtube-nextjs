@@ -68,7 +68,7 @@ export default function Page() {
                                     </tr>
                                 </tbody>
                             </table>
-                            <p className="my-2 text-primary-gray text-xs">Para obtener un API_TOKEN se debe contactar con el siguiente correo: <a href="#" className="text-blue-500">contacto@descargatuvideo.cl</a></p>
+                            <p className="my-2 text-primary-gray text-xs">Para obtener un API_TOKEN se debe contactar con el siguiente correo: <a href="mailto:descargatuvideoyt@gmail.com" className="text-blue-500">descargatuvideoyt@gmail.com</a></p>
                         </div>
 
                         <h2 className="mt-12 font-semibold text-[18px]">Obtener información y Links de descarga de un Video</h2>
