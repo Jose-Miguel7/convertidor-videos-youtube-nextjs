@@ -167,10 +167,10 @@ export default function HomePage() {
                                 1. Busque por nombre o pegue directamente el enlace del video que desea convertir
                             </li>
                             <li>
-                                2. Haga clic en el botón "Iniciar" para comenzar el proceso de conversión
+                                2. Haga clic en el botón {'"'}Iniciar{'"'} para comenzar el proceso de conversión
                             </li>
                             <li>
-                                3. Seleccione el formato de video/audio que desea descargar, luego haga clic en el botón "Descargar"
+                                3. Seleccione el formato de video/audio que desea descargar, luego haga clic en el botón {'"'}Descargar{'"'}
                             </li>
                         </ul>
                     </div>
