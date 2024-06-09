@@ -10,7 +10,7 @@ export default function Navbar() {
 
             <div className="flex items-center gap-5">
                 <ModeToggle />
-                <ul className="flex gap-10 items-center">
+                <ul className="flex gap-3 sm:gap-10 items-center">
                     <li className="text-[13px]">
                         <Link href="/">
                             Convertidor

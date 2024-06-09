@@ -73,10 +73,10 @@ export default function HomePage() {
 
                 <div className="h-[400px] bg-[#F5F5F5] dark:bg-[#444] flex flex-col gap-3 items-center justify-center px-5">
                     <h1 className="text-[25px] text-center">
-                        Descarga videos y audios de YouTube ahora
+                        Descarga videos y audios de YouTube
                     </h1>
                     <h3 className="text-[13px] text-center">
-                        Descarga vídeos de Youtube en MP3, MP4, 3GP, ... y muchos más formatos
+                        Descarga vídeos de Youtube en MP3, MP4, webp, ... y muchos más formatos
                     </h3>
 
                     <form className="flex items-center w-[90%] max-w-[1000px] mt-[10px]" onSubmit={handleSubmit}>
